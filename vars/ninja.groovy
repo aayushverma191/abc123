@@ -1,3 +1,3 @@
 def call() {
-  echo ninja
+  echo "ninja"
 }
